@@ -8,7 +8,7 @@
 
 | Contenido                 | Enlace |
 |---------------------------------|------|
-| 01_image_to_text | [![](/assets/colab-badge-es.svg)](https://colab.research.google.com/github/frautn/llamita/blob/main/cosas/01_image_to_text.ipynb) |
+| 01_image_to_text | [![](/assets/colab-badge-es.svg)](https://colab.research.google.com/github/frautn/llamita/blob/main/code/01_image_to_text.ipynb) |
 
 
 ### Ejemplos básicos
