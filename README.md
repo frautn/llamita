@@ -4,6 +4,15 @@
 
 ## Algunos enlaces
 
+### Code
+
+| Contenido                 | Enlace |
+|---------------------------------|------|
+| 01_image_to_text | [![](/assets/colab-badge-es.svg)](https://colab.research.google.com/github/frautn/llamita/blob/main/cosas/01_image_to_text.ipynb) |
+
+
+### Ejemplos básicos
+
 | Contenido                 | Enlace |
 |---------------------------------|------|
 | Ejemplo: multimodal con langchain | [![](/assets/colab-badge-es.svg)](https://colab.research.google.com/github/frautn/llamita/blob/main/cosas/langchain_multimodal_prompts.ipynb) |
