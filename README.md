@@ -18,3 +18,4 @@
 |---------------------------------|------|
 | Ejemplo: multimodal con langchain | [![](/assets/colab-badge-es.svg)](https://colab.research.google.com/github/frautn/llamita/blob/main/cosas/langchain_multimodal_prompts.ipynb) |
 | interacting_with_exercise | [![](/assets/colab-badge-es.svg)](https://colab.research.google.com/github/frautn/llamita/blob/main/cosas/interacting_with_exercise.ipynb) |
+| chat_memory | [![](/assets/colab-badge-es.svg)](https://colab.research.google.com/github/frautn/llamita/blob/dev/ejemplos/chat_memory.ipynb) |
