@@ -1,0 +1,28 @@
+
+conda create -n llamita
+
+conda install -n llamita -c conda-forge python==3.12.11 ipykernel ipympl matplotlib numpy pandas
+
+---------------
+
+conda install -n llamita -c conda-forge langchain-community
+
+# CHeck this:
+#
+# When installing langchain:
+#
+# The following packages will be DOWNGRADED:
+#
+# numpy 2.3.2-py312h33ff503_0 –> 1.26.4-py312heda63a1_0
+#
+# langchain-ollama is not in conda, so we have to use pip: 
+
+conda activate llamita
+pip install langchain-ollama
+
+conda install -n llamita -c conda-forge chromadb
+
+--- OCR -------------------------
+
+conda install -n llamita -c conda-forge tesseract pytesseract
+
