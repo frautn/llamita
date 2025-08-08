@@ -9,6 +9,7 @@
 | Contenido                 | Enlace |
 |---------------------------------|------|
 | 01_image_to_text | [![](/assets/colab-badge-es.svg)](https://colab.research.google.com/github/frautn/llamita/blob/main/code/01_image_to_text.ipynb) |
+| 02_bounding_boxes | [![](/assets/colab-badge-es.svg)](https://colab.research.google.com/github/frautn/llamita/blob/dev/code/02_bounding_boxes.ipynb) |
 
 
 ### Ejemplos básicos
